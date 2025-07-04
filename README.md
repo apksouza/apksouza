@@ -1,7 +1,7 @@
 # Olá, sou Apksouza! 👋
 
 ## Sobre Mim
-Sou um entusiasta da tecnologia apaixonado por resolver problemas e criar soluções inovadoras. Com uma sólida formação em Ciência da Computação e uma paixão por aprender, estou sempre buscando novos desafios e oportunidades para crescer como desenvolvedor.
+Sou um entusiasta da tecnologia apaixonado por resolver problemas e criar soluções inovadoras. Estudante de Ciência da Computação e fundador da **Apksouza Dev Studio**, minha empresa dedicada ao desenvolvimento de soluções digitais. Estou sempre buscando novos desafios e oportunidades para crescer como desenvolvedor e empreendedor.
 
 ## Habilidades
 - **Desenvolvimento Web:** HTML, CSS, JavaScript, React
@@ -16,13 +16,16 @@ Sou um entusiasta da tecnologia apaixonado por resolver problemas e criar soluç
 - **Colaboração:** Acredito no poder da colaboração e do trabalho em equipe para alcançar objetivos comuns.
 - **Comprometimento:** Determinado a entregar trabalhos de qualidade dentro do prazo estabelecido.
 
+## Minha Empresa
+Na **Apksouza Dev Studio**, desenvolvemos projetos personalizados que conectam inovação, qualidade e eficiência para clientes diversos. Lidero a equipe técnica e trabalho diretamente no desenvolvimento de soluções que fazem a diferença.
+
 ## Projetos Destacados
 - [Projeto 1](Em Breve aqui)
 - [Projeto 2](Em Breve aqui)
 
 ## Contato
-- **LinkedIn:** [[Apksouza](https://www.linkedin.com/in/apksouza/)
+- **LinkedIn:** [Apksouza](https://www.linkedin.com/in/apksouza/)
 - **Email:** apksouzaoficial@gmail.com
-- **Website:** portal-pereira.com
 
 Vamos colaborar e criar juntos! Se você tem algum projeto interessante ou desafio, adoraria ouvir mais sobre isso. Não hesite em entrar em contato!
+
